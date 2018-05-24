@@ -1,0 +1,5 @@
+[device1]
+deviceCompany=DH
+deviceIpAddr=192.168.1.118
+password=admin12345
+usrAccount=admin

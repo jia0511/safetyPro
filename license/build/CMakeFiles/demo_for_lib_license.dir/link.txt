@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/demo_for_lib_license.dir/demo_for_lib_license.o  -o demo_for_lib_license  -L/home/bivl/court/license/build -Wl,-rpath,/home/bivl/court/license/build -rdynamic libabc.so 

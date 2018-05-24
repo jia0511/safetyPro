@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bivl/court/license/demo_for_lib_license.cpp
+stdio.h
+-
+math.h
+-
+vector
+-
+string
+-
+iostream
+-
+string.h
+-
+stdlib.h
+-
+sys/types.h
+-
+dirent.h
+-
+sys/stat.h
+-
+libabc.h
+/home/bivl/court/license/libabc.h
+
+/home/bivl/court/license/libabc.h
+
